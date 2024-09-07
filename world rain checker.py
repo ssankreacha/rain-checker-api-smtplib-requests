@@ -19,7 +19,7 @@ MY_LONG = 0             # TYPE YOUR LONG IN
 parameters = {
     "lat": MY_LAT,
     "lon": MY_LONG,
-    "appid": "c52f9034b7d11d21a46af64f16a1aedb",
+    "appid": " ",
     "cnt": 4    # forecast for 4 days, day 0 via JSON viewer is today.
 }
 
